@@ -6,3 +6,4 @@ All Python  Concepts and examples
 ## 4.Conditional Statements
 ## 5.Looping Statements
 ## 6.Keywords & Identifiers
+## 7.Functions
