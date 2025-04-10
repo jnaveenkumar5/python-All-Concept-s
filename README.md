@@ -7,3 +7,4 @@ All Python  Concepts and examples
 ## 5.Looping Statements
 ## 6.Keywords & Identifiers
 ## 7.Functions
+## 8.Arrays
